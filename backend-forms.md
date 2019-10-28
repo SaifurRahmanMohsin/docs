@@ -983,7 +983,7 @@ Option | Description
 
 The available toolbar buttons are:
 
-    fullscreen, bold, italic, underline, strikeThrough, subscript, superscript, fontFamily, fontSize, |, color, emoticons, inlineStyle, paragraphStyle, |, paragraphFormat, align, formatOL, formatUL, outdent, indent, quote, insertHR, -, insertLink, insertImage, insertVideo, insertAudio, insertFile, insertTable, undo, redo, clearFormatting, selectAll, html
+    fullscreen, bold, italic, underline, strikeThrough, subscript, superscript, fontFamily, fontSize, color, emoticons, inlineStyle, paragraphStyle, paragraphFormat, align, formatOL, formatUL, outdent, indent, quote, insertHR, insertLink, insertImage, insertVideo, insertAudio, insertFile, insertTable, undo, redo, clearFormatting, selectAll, html
 
 > **Note**: `|` will insert a vertical separator line in the toolbar and `-` a horizontal one.
 
